@@ -1,4 +1,4 @@
-# CO3094_Assignment1
+# UI
 - Clone về sau đó mở terminal, chạy lệnh python3 server.py
 - Sau đó nhập link sau trên browser http://127.0.0.1:5050
 - Trong ô input On/Off gõ "on" và enter 
